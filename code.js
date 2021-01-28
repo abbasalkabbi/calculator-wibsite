@@ -1,5 +1,5 @@
- var screen=document.getElementById("screen");
- var values={prev:null,new:null}
+ var screen=document.getElementById("screen");/* get screen  input*/ 
+ var values={prev:null,new:null};/* variable numbers*/ 
  var opertype="";
  var isbutton=false;
  
