@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    margin-top: 10%;
+}
+input{
+    margin-bottom:10px;
+    width: 190px;
+    height: 20px;
+}
+button{
+    width: 50px;
+    padding:10px 20px ;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    background-color: aqua;
+    cursor: pointer;
+    border-radius: 50%;
+}
+button:hover{
+    background-color: rgb(109, 109, 109);
+    color: aliceblue;   
+}
